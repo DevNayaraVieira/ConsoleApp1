@@ -1,0 +1,15 @@
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\bin\Debug\net7.0\MeuPrimeiroApp.exe
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\bin\Debug\net7.0\MeuPrimeiroApp.deps.json
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\bin\Debug\net7.0\MeuPrimeiroApp.runtimeconfig.json
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\bin\Debug\net7.0\MeuPrimeiroApp.dll
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\bin\Debug\net7.0\MeuPrimeiroApp.pdb
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.AssemblyInfoInputs.cache
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.AssemblyInfo.cs
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.dll
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\refint\MeuPrimeiroApp.dll
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.pdb
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\MeuPrimeiroApp.genruntimeconfig.cache
+C:\Users\NayVi\OneDrive\coisas\Documentos\Digital House .NET\M03\Aula02\ConsoleApp1\obj\Debug\net7.0\ref\MeuPrimeiroApp.dll
